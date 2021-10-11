@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Saul Magnusson</title>
+    <link>http://saulmagnusson.com/posts/</link>
+    <description>Recent content in Posts on Saul Magnusson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Oct 2021 20:09:01 -0500</lastBuildDate><atom:link href="http://saulmagnusson.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://saulmagnusson.com/posts/first/</link>
+      <pubDate>Sat, 09 Oct 2021 20:09:01 -0500</pubDate>
+      
+      <guid>http://saulmagnusson.com/posts/first/</guid>
+      <description>Hello World!</description>
+    </item>
+    
+  </channel>
+</rss>
